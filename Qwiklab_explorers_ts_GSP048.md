@@ -2,7 +2,8 @@
 
 # # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
-* ### Run the following Commands in Cloudshell
+* ### Go to `VM instances` > Connect with `SSH` 
+* ### Run the following Commands in `SSH`
 ```
 gcloud services enable apikeys.googleapis.com
 gcloud alpha services api-keys create --display-name="techcps"
